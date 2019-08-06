@@ -12,3 +12,4 @@ Kaggle is worlds most popular DataScience competition website.
 
 We start by working on the datasets
 - Zomato
+- German Traffic Sign
